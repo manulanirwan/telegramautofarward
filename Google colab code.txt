@@ -1,0 +1,10 @@
+!pip install telethon
+from telethon.sync import TelegramClient
+from telethon.sessions import StringSession
+
+API_ID = 12345  # Friend puts their ID here
+API_HASH = 'your_hash' # Friend puts their Hash here
+
+with TelegramClient(StringSession(), API_ID, API_HASH) as client:
+    print("\n--- COPY THIS SESSION STRING ---")
+    print(client.session.save())
