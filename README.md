@@ -1,4 +1,5 @@
 <img width="1080" height="617" alt="gemini-2 5-flash-image_a_surreal_and_vibrant_cinematic_photo_of_Create_a_high_CTR_YouTube_thumbnail_" src="https://github.com/user-attachments/assets/261fa6cc-2e85-4cf8-97a3-61142c447ed4" />
+
 🚀 The "24/7 Telegram Forwarder" Starter Kit
 
 Step 1: Get API Keys
