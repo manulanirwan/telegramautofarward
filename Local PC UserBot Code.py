@@ -1,17 +1,17 @@
 from telethon import TelegramClient, events
 
 # ===== CONFIG =====
-api_id = 29093187            # From https://my.telegram.org
-api_hash = '2590808dee1c8eef250b4d6086dc2cd6'      # From https://my.telegram.org
-phone_number = '+94 77 130 8372'  # Your Telegram account number
+api_id =             # From https://my.telegram.org
+api_hash = ''      # From https://my.telegram.org
+phone_number = ''  # Your Telegram account number
 
 # You can add more channels in this list
 source_channels = [
-    '@K_llo',   # e.g. '@CryptoSignals'
-    '@crypto_coinsignals',    # e.g. '@AltcoinUpdates' 
+    '',   # e.g. '@CryptoSignals'
+    '',    # e.g. '@AltcoinUpdates' 
     ]
 
-destination_channel = '@mrmanulacrypto'  # e.g. '@MyCryptoHub'
+destination_channel = ''  # e.g. '@MyCryptoHub'
 
 # Create the Telegram client
 client = TelegramClient('userbot_session', api_id, api_hash)
